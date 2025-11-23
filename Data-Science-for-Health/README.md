@@ -24,10 +24,9 @@ This course explores the development of data-driven solutions in healthcare, foc
 
 ### 3. [GANs for X-Ray Classification](./dsh_assignment3_irisvukovic.ipynb/)
 **Description:** Explore the use of Generative Adversarial Networks (GANs) on MedMNIST v2 datasets to generate synthetic medical images and test whether the GAN improves performance on a clinical task. Steps included:  
-1. Define research question  
-2. Implement baseline  
-3. Test baseline & gather results  
-4. Implement GAN method  
+1. Implement baseline CNN model
+2. Test baseline & gather results  
+3. Implement GAN method
 5. Compare results & reflect on limitations  
 
 ---
