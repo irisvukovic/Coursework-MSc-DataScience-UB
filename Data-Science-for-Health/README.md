@@ -9,7 +9,7 @@ This course explores the development of data-driven solutions in healthcare, foc
 
 Each project includes a brief description and the dataset used. Click the project name to access the corresponding notebook or file.
 
-### 1. [DSxH Assignment 1: Predicting ICU Length of Stay](./assignment1/)
+### 1. [DSxH Assignment 1: Predicting ICU Length of Stay](./dsh_assignment1_irisvukovic.ipynb/)
 **Description:** Predict whether a patient’s Length of Stay (LOS) in the ICU is short or long using two strategies:  
 1. Severity of illness score (OASIS)  
 2. Variables from the first hours of ICU stay  
