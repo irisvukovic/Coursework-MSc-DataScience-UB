@@ -17,7 +17,7 @@ Each project includes a brief description and the dataset used. Click the projec
 
 ---
 
-### 2. [Assignment 2: Working with Health Data from Wearables](./assignment2/)
+### 2. [Assignment 2: Working with Health Data from Wearables](./dsh_assignment2_irisvukovic.ipynb/)
 **Description:** Analyze motion sensor data from the Daily Sports and Activities dataset (UCI Machine Learning Repository) to:  
 - Understand time-series health data  
 - Perform preprocessing and visualization  
@@ -25,7 +25,7 @@ Each project includes a brief description and the dataset used. Click the projec
 
 ---
 
-### 3. [Assignment 3: GANs for X-Ray Classification](./assignment3/)
+### 3. [Assignment 3: GANs for X-Ray Classification](./dsh_assignment3_irisvukovic.ipynb/)
 **Description:** Explore the use of Generative Adversarial Networks (GANs) on MedMNIST v2 datasets to generate synthetic medical images and test whether the GAN improves performance on a clinical task. Steps included:  
 1. Define research question  
 2. Implement baseline  
@@ -35,7 +35,7 @@ Each project includes a brief description and the dataset used. Click the projec
 
 ---
 
-### 4. [Assignment 4: Transparency of Deep Neural Networks](./assignment4/)
+### 4. [Assignment 4: Transparency of Deep Neural Networks](./dsh_assignment4_irisvukovic_juliavirgili.pdf/)
 **Description:** Reviewed the paper *“Interpretability of Deep Neural Networks”* and created a presentation titled **Transparency of Deep Neural Networks for Medical Image Analysis: A Review of Interpretability Methods**. Focused on understanding methods for interpreting deep learning models in medical imaging.  
 
 Citation: 
