@@ -19,7 +19,7 @@ The main problem was to predict the perceived age from a face image while minimi
 - Trained using 70% of the dataset
 - Highly structured and guided starter notebook
 
-The accompanying **(PDF report)[./Computer-Vision-Task-1-Report.pdf/]** includes the model design, training strategy, evaluation metrics, bias analysis, results, and conclusions.
+The accompanying **[PDF Report](./Computer-Vision-Task-1-Report.pdf)** includes the model design, training strategy, evaluation metrics, bias analysis, results, and conclusions.
 
 ---
 
@@ -40,5 +40,5 @@ Reduce age prediction error and subgroup bias **without data augmentation**, by 
 - Weighted/custom loss to reduce bias
 - More experimental and less guided than Task 1
 
-The accompanying **(PDF report)[./Computer-Vision-Task-2-Report.pdf/]** details the custom loss formulation, training setup, results, fairness analysis, and final conclusions.
+The accompanying **[PDF Report](./Computer-Vision-Task-2-Report.pdf)** details the custom loss formulation, training setup, results, fairness analysis, and final conclusions.
 
