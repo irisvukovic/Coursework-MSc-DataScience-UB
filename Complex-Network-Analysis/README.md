@@ -9,7 +9,7 @@ For the first assignment, we explored a single layer of the multi-layer social n
 
 
 ### 2. [Bluetooth Proximity Network Analysis](./Complex-Networks-Study_2.ipynb)
-For the second assignment, we focused on the **Bluetooth proximity layer** to analyze community structure and network dynamics. We studied clusters, bridge nodes, and potential paths for disease spread or information flow within the network. The interactive HTML version contains visualizations and results, while the notebook contains the underlying code.  
+For the second assignment, we focused on the **Bluetooth proximity layer** to analyze community structure and network dynamics. We studied clusters, bridge nodes, and potential paths for disease spread or information flow within the network.
 
 
 ## References
