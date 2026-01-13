@@ -25,7 +25,7 @@ The accompanying **[PDF Report](./Computer-Vision-Task-1-Report.pdf)** includes 
 
 ### 2. [Automatic Age Perception – Custom Loss Function (No Augmentation)](task2_customloss.ipynb)
 
-> **Note:** The `.ipynb` file contains the complete implementation, but due to size and widget-rendering issues, the **outputs are best viewed in this [GitHub Page](https://irisvukovic.github.io/MSc-DataScience-UB/Computer-Vision/).
+> **Note:** The `.ipynb` file contains the complete implementation, but due to size and widget-rendering issues, the **outputs are best viewed in this [GitHub Page](https://irisvukovic.github.io/Coursework-MSc-DataScience-UB/Computer-Vision/).
 
 
 Reduce age prediction error and subgroup bias **without data augmentation**, by integrating fairness directly into the training objective.
